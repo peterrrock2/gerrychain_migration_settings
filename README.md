@@ -4,7 +4,7 @@ This is a quick “what changed / what to do instead” guide for users of Gerry
 who need to migrate code from versions prior to 1.0.0 that relied on `Graph` being a subclass of 
 `networkx.Graph`.
 
-## :WARNING: Deprecated access patterns
+## ⚠️ Deprecated access patterns
 
 The following access patterns have been deprecated on the new `Graph` class:
 
